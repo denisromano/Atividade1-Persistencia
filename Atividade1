@@ -1,0 +1,5 @@
+git init
+git mkdir "Atividade1"
+git commit -m "first commit"
+git remote add origin https://github.com/denisromano/Atividade1-Persistencia.git
+git push -u origin master
